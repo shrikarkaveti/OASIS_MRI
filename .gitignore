@@ -1,5 +1,0 @@
-*.Identifier
-Saved_Models/*.Identifier
-Notebooks/*.Identifier
-MRI_Scans/*.Identifier
-Dataset_Generation_Files/*.Identifier
